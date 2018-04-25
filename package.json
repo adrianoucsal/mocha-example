@@ -1,0 +1,29 @@
+{
+  "name": "mocha-example",
+  "version": "1.0.0",
+  "description": "Testes do Framework Mocha para NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianoucsal/mocha-example.git"
+  },
+  "keywords": [
+    "Test",
+    "Mocha",
+    "Nodes",
+    "NodeJS",
+    "Example"
+  ],
+  "author": "Adriano Rodrigues de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianoucsal/mocha-example/issues"
+  },
+  "homepage": "https://github.com/adrianoucsal/mocha-example#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
